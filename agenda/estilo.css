@@ -1,0 +1,8 @@
+body, table {COLOR: black; TEXT-DECORATION: none; FONT-SIZE: 8pt; FONT-FAMILY:Verdana;}
+h1 {COLOR: darkred; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY:Verdana; margin-bottom: 1}
+h2 {COLOR: #FF8C08; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY:Verdana; margin-bottom: 5; text-align: center}
+hr {width="300"; size="1"; color:black;}
+input, textarea, select {font-family:Verdana;font-size:8pt;border-style:solid;border-width:1; color:#944210}
+A:link  {COLOR: #944210; TEXT-DECORATION: none}
+A:visited {COLOR: #944210; TEXT-DECORATION: none}
+A:hover {COLOR: #944210; TEXT-DECORATION: underline}
